@@ -1,6 +1,9 @@
 --------------------
 ----𝐌𝐚𝐭𝐝𝐬𝐬𝐚#0001----
 --------------------
+print("")
+print("^1Auteur :Matdssa#0001^0")
+print("")
 local ind = {l = false, r = false}
 
 Citizen.CreateThread(function()
