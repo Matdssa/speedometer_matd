@@ -1,5 +1,4 @@
 # speedometer_matd
-Un script simple pour se cacher dans un coffre de voiture
 
 # Support
 Compteur de vitesse totalement Optimiser
